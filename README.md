@@ -1,1 +1,15 @@
-Hi, I’m @iz00
+# Hi, I’m @iz00
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/isadora-conti-sostisso/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:isadoracontsost@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+</div>
+
+## Computer Science student at [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/).
+### Working through [CS50x](https://cs50.harvard.edu/x/2024/) and [CS50w](https://cs50.harvard.edu/web/2020/).
+<hr>
+Projects:
