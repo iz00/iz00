@@ -48,6 +48,7 @@
 #### Projects:
 - [BirthdayHub](https://github.com/iz00/birthday-hub): CS50x's [Final Project](https://cs50.harvard.edu/x/2024/project/), a birthday manager web app.
 - [CS50x's Assignments](https://github.com/iz00/CS50x): CS50x's [Additional Practices](https://cs50.harvard.edu/x/2024/practice/) and [Problem Sets](https://cs50.harvard.edu/x/2024/syllabus/#problem-sets) solutions.
+- [CS50w's Assignments](https://github.com/iz00/CS50w): CS50w's Projects.
 
 <hr>
 
