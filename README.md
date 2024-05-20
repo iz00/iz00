@@ -56,7 +56,8 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iz00&theme=react&border_radius=4&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iz00&theme=react&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iz00&show_icons=true&theme=react&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iz00&layout=compact&langs_count=16&theme=react"/>
