@@ -22,6 +22,7 @@
 <hr>
 
 #### Languages and Tools
+
 <div align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -48,9 +49,22 @@
 <hr>
 
 #### Repositories
-- [BirthdayHub](https://github.com/iz00/birthday-hub): CS50x's [Final Project](https://cs50.harvard.edu/x/project/), a birthday manager web app.
-- [CS50x's Assignments](https://github.com/iz00/CS50x): CS50x's [Additional Practices](https://cs50.harvard.edu/x/practice/) and [Problem Sets](https://cs50.harvard.edu/x/syllabus/#problem-sets) solutions.
-- [CS50w's Assignments](https://github.com/iz00/CS50w): CS50w's Projects.
+
+<div align="center">
+
+  <a href="https://github.com/iz00/CS50x">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react" height="150em" />
+  </a>
+
+  <a href="https://github.com/iz00/CS50w">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react" height="150em" />
+  </a>
+
+  <a href="https://github.com/iz00/birthday-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" height="180em" />
+  </a>
+
+</div>
 
 <hr>
 
