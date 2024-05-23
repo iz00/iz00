@@ -53,15 +53,15 @@
 <div align="center">
 
   <a href="https://github.com/iz00/CS50x">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react" height="150em" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react" height="140em" />
   </a>
 
   <a href="https://github.com/iz00/CS50w">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react" height="150em" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react" height="140em" />
   </a>
 
   <a href="https://github.com/iz00/birthday-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" height="180em" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" height="170em" />
   </a>
 
 </div>
