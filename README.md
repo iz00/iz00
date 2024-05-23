@@ -61,7 +61,7 @@
   </a>
 
   <a href="https://github.com/iz00/birthday-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" height="170em" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" height="150em" />
   </a>
 
 </div>
