@@ -53,18 +53,48 @@
 <div align="center">
 
   <a href="https://github.com/iz00/CS50x">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react" alt="CS50x repository" align="center" />
-  </a>
+		<picture align="center">
+	 		<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react"
+	    	media="(prefers-color-scheme: dark)"
+	  	/>
+	  	<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x"
+	    	media="(prefers-color-scheme: light)"
+	  	/>
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x" alt="CS50x repository" align="center" />
+		</picture>
+	</a>
 
   <a href="https://github.com/iz00/birthday-hub">
-  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react" alt="birthday-hub repository" align="center" height="140em" />
+		<picture align="center">
+	 		<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react"
+	    	media="(prefers-color-scheme: dark)"
+	  	/>
+	  	<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub"
+	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  	/>
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub" alt="birthday-hub repository" align="center" height="140em" />
+		</picture>
 	</a>
 
 ######
 
   <a href="https://github.com/iz00/CS50w">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react" alt="CS50w repository" align="center" />
-  </a>
+		<picture align="center">
+	 		<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react"
+	    	media="(prefers-color-scheme: dark)"
+	  	/>
+	  	<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w"
+	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  	/>
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w" alt="CS50w repository" align="center" />
+		</picture>
+	</a>
 
 </div>
 
