@@ -2,14 +2,14 @@
 
   <h1>
     Hi, I’m Isadora (@iz00)
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Greeting sign" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Greeting wave gif" title="Hello!" width="30px" />
   </h1>
 
   <a href="https://www.linkedin.com/in/isadora-conti-sostisso/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" title="Linkedin Profile" />
   </a>
 	<a href="mailto:isadoracontsost@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge"/>
+		<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge" title="Mail me" />
 	</a>
 
 </div>
@@ -55,28 +55,28 @@
   <a href="https://github.com/iz00/CS50x">
 		<picture align="center">
 	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x&theme=react"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50x&theme=react&username=iz00"
 	    	media="(prefers-color-scheme: dark)"
 	  	/>
 	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50x&username=iz00"
 	    	media="(prefers-color-scheme: light)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50x" alt="CS50x repository" align="center" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50x&username=iz00" alt="CS50x repository" align="center" />
 		</picture>
 	</a>
 
   <a href="https://github.com/iz00/birthday-hub">
 		<picture align="center">
 	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub&theme=react"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&theme=react&username=iz00"
 	    	media="(prefers-color-scheme: dark)"
 	  	/>
 	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00"
 	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=birthday-hub" alt="birthday-hub repository" align="center" height="140em" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00" alt="birthday-hub repository" align="center" height="140em" />
 		</picture>
 	</a>
 
@@ -85,14 +85,14 @@
   <a href="https://github.com/iz00/CS50w">
 		<picture align="center">
 	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w&theme=react"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&theme=react&username=iz00"
 	    	media="(prefers-color-scheme: dark)"
 	  	/>
 	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&username=iz00"
 	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?username=iz00&repo=CS50w" alt="CS50w repository" align="center" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&username=iz00" alt="CS50w repository" align="center" />
 		</picture>
 	</a>
 
@@ -104,9 +104,48 @@
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iz00&theme=react&border_radius=6.4&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" /></a>
+  <a href="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&theme=react&user=iz00">
+	  <picture align="center">
+			<source
+				srcset="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&theme=react&user=iz00"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&user=iz00"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&user=iz00" alt="GitHub streak" align="center" />
+		</picture>
+	</a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=iz00&show_icons=true&theme=react&include_all_commits=true" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iz00&layout=compact&langs_count=16&theme=react" alt="GitHub most used languages" height="180em" />
+  ######
+
+  <a href="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&theme=react&username=iz00">
+	  <picture align="center">
+			<source
+				srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&theme=react&username=iz00"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&username=iz00"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&username=iz00" alt="GitHub stats" height="180em" />
+		</picture>
+	</a>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&theme=react&username=iz00">
+	  <picture align="center">
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&theme=react&username=iz00"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&username=iz00"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&username=iz00" alt="GitHub most used languages" height="180em" />
+		</picture>
+	</a>
 
 </div>
