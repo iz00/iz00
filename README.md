@@ -42,7 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google icon" title="Google" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow icon" title="StackOverflow" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows icon" title="Windows" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux icon" title="Linux" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux icon" title="Linux" height="40" />
 
 </div>
 
@@ -146,6 +146,6 @@
 			/>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&username=iz00" alt="GitHub most used languages" height="180em" />
 		</picture>
-	</a>
+	</a>&nbsp;
 
 </div>
