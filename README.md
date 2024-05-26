@@ -34,15 +34,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" title="C" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub icon" title="GitHub" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub icon" title="GitHub" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker icon" title="Docker" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode icon" title="VSCode" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome icon" title="Chrome" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google icon" title="Google" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow icon" title="StackOverflow" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows icon" title="Windows" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux icon" title="Linux" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode icon" title="VSCode" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome icon" title="Chrome" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google icon" title="Google" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow icon" title="StackOverflow" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows icon" title="Windows" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux icon" title="Linux" height="40" />&nbsp;
 
 </div>
 
@@ -64,7 +64,7 @@
 	  	/>
 	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50x&username=iz00" alt="CS50x repository" align="center" />
 		</picture>
-	</a>
+	</a>&nbsp;
 
   <a href="https://github.com/iz00/birthday-hub">
 		<picture align="center">
@@ -132,7 +132,7 @@
 			/>
 			<img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&username=iz00" alt="GitHub stats" height="180em" />
 		</picture>
-	</a>
+	</a>&nbsp;
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&theme=react&username=iz00">
 	  <picture align="center">
