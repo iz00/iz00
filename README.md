@@ -7,7 +7,7 @@
 
   <a href="https://www.linkedin.com/in/isadora-conti-sostisso/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" title="Linkedin Profile" />
-  </a>
+  </a>&nbsp;
 	<a href="mailto:isadoracontsost@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail badge" title="Mail me" />
 	</a>
@@ -25,16 +25,16 @@
 
 <div align="center">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python icon" title="Python" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python icon" title="Python" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django icon" title="Django" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite icon" title="SQLite" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React icon" title="React" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 icon" title="HTML5" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 icon" title="HTML5" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" title="C" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub icon" title="GitHub" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker icon" title="Docker" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode icon" title="VSCode" height="40" />&nbsp;
@@ -78,7 +78,7 @@
 	  	/>
 	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00" alt="birthday-hub repository" align="center" height="140em" />
 		</picture>
-	</a>
+	</a>&nbsp;
 
 ######
 
