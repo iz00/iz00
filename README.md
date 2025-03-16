@@ -66,17 +66,17 @@
 		</picture>
 	</a>&nbsp;
 
-  <a href="https://github.com/iz00/birthday-hub">
+  <a href="https://github.com/iz00/youtube-telegram-bot">
 		<picture align="center">
 	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&theme=react&username=iz00"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&theme=react&username=iz00"
 	    	media="(prefers-color-scheme: dark)"
 	  	/>
 	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&username=iz00"
 	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00" alt="birthday-hub repository" align="center" height="140em" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&username=iz00" alt="youtube-telegram-bot repository" align="center" height="140em" />
 		</picture>
 	</a>&nbsp;
 
@@ -94,7 +94,21 @@
 	  	/>
 	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&username=iz00" alt="CS50w repository" align="center" />
 		</picture>
-	</a>
+	</a>&nbsp;
+
+  <a href="https://github.com/iz00/birthday-hub">
+		<picture align="center">
+	 		<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&theme=react&username=iz00"
+	    	media="(prefers-color-scheme: dark)"
+	  	/>
+	  	<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00"
+	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  	/>
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00" alt="birthday-hub repository" align="center" height="140em" />
+		</picture>
+	</a>&nbsp;
 
 </div>
 
