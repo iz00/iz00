@@ -16,39 +16,49 @@
 
 <hr>
 
-## Computer Science student at [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/).
-### Working through [CS50x](https://cs50.harvard.edu/x/) and [CS50w](https://cs50.harvard.edu/web/).
+## About me
+
+🎓 I'm a **Computer Science** student at *Universidade Tecnológica Federal do Paraná* (UTFPR), with experience in backend development, automation, web scraping, and cloud deployment.
+
+💻 Currently, I'm developing my Python skills by working through *Automate the Boring Stuff with Python* and Harvard's *CS50 Python* course.
+
+🚀 I'm dedicated to learning and eager to work on practical projects and build new things.
 
 <hr>
 
-#### Languages and Tools
+## Skills
 
-<div align="center">
+###### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python icon" title="Python" height="38" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django icon" title="Django" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite icon" title="SQLite" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" title="JavaScript" height="38" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React icon" title="React" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 icon" title="HTML5" height="38" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 icon" title="CSS3" height="38" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap icon" title="Bootstrap" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C icon" title="C" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git icon" title="Git" height="38" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub icon" title="GitHub" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker icon" title="Docker" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode icon" title="VSCode" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome icon" title="Chrome" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Google icon" title="Google" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow icon" title="StackOverflow" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Windows icon" title="Windows" height="38" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux icon" title="Linux" height="38" />
+###### Backend Development:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-</div>
+###### Frontend Development:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+###### Database Management:
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+###### Deployment & Cloud Services:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+###### Development Tools & Environments:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <hr>
 
-#### Repositories
+## Repositories
 
 <div align="center">
 
@@ -65,6 +75,22 @@
 	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50x&username=iz00" alt="CS50x repository" align="center" />
 		</picture>
 	</a>&nbsp;
+ 
+  <a href="https://github.com/iz00/CS50-Python">
+		<picture align="center">
+	 		<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50-Python&theme=react&username=iz00"
+	    	media="(prefers-color-scheme: dark)"
+	  	/>
+	  	<source
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50-Python&username=iz00"
+	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+	  	/>
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50-Python&username=iz00" alt="CS50-Python repository" align="center" />
+		</picture>
+	</a>&nbsp;
+
+######
 
   <a href="https://github.com/iz00/youtube-telegram-bot">
 		<picture align="center">
@@ -76,37 +102,21 @@
 	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&username=iz00"
 	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&username=iz00" alt="youtube-telegram-bot repository" align="center" height="140em" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=youtube-telegram-bot&username=iz00" alt="youtube-telegram-bot repository" align="center" />
 		</picture>
 	</a>&nbsp;
 
-######
-
-  <a href="https://github.com/iz00/CS50w">
+  <a href="https://github.com/iz00/https://github.com/iz00/samsung-shop-telegram-bot">
 		<picture align="center">
 	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&theme=react&username=iz00"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=samsung-shop-telegram-bot&theme=react&username=iz00"
 	    	media="(prefers-color-scheme: dark)"
 	  	/>
 	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&username=iz00"
+	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=samsung-shop-telegram-bot&username=iz00"
 	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=CS50w&username=iz00" alt="CS50w repository" align="center" />
-		</picture>
-	</a>&nbsp;
-
-  <a href="https://github.com/iz00/birthday-hub">
-		<picture align="center">
-	 		<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&theme=react&username=iz00"
-	    	media="(prefers-color-scheme: dark)"
-	  	/>
-	  	<source
-	    	srcset="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00"
-	    	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-	  	/>
-	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=birthday-hub&username=iz00" alt="birthday-hub repository" align="center" height="140em" />
+	  	<img src="https://github-readme-stats.vercel.app/api/pin/?repo=samsung-shop-telegram-bot&username=iz00" alt="samsung-shop-telegram-bot repository" align="center" />
 		</picture>
 	</a>&nbsp;
 
@@ -114,39 +124,15 @@
 
 <hr>
 
-#### Stats
+<details>
 
-<div align="center">
+<summary>
 
-  <a href="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&theme=react&user=iz00">
-	  <picture align="center">
-			<source
-				srcset="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&theme=react&user=iz00"
-				media="(prefers-color-scheme: dark)"
-			/>
-			<source
-				srcset="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&user=iz00"
-				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img src="https://streak-stats.demolab.com?date_format=j%20M%5B%20Y%5D&user=iz00" alt="GitHub streak" align="center" />
-		</picture>
-	</a>
+  ### Stats
 
-  ######
+</summary>
 
-  <a href="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&theme=react&username=iz00">
-	  <picture align="center">
-			<source
-				srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&theme=react&username=iz00"
-				media="(prefers-color-scheme: dark)"
-			/>
-			<source
-				srcset="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&username=iz00"
-				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-			/>
-			<img src="https://github-readme-stats.vercel.app/api?include_all_commits=true&show_icons=true&username=iz00" alt="GitHub stats" height="180em" />
-		</picture>
-	</a>&nbsp;
+  <div align="center">
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?langs_count=16&layout=compact&theme=react&username=iz00">
 	  <picture align="center">
@@ -162,4 +148,6 @@
 		</picture>
 	</a>&nbsp;
 
-</div>
+  </div>
+
+</details>
